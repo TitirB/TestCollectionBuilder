@@ -1,4 +1,5 @@
-Name,Latitude,Longitude,Icon,Description,Color
-Lincoln's Inn Fields,51.515278,-0.115278,location-dot,The Duke's Company (1660-1671); The Actor's Company (1695-1705),Purple
-Dorset Garden Theatre,51.514167,-0.108056,location-dot,The Duke's Company (1671-1682); The United Company (1682-1695); The Patent Company (1695-1709),Green
-Drury Lane,51.513056,-0.120278,location-dot,The King's Company (1660-1682); The United Company (1682-1695),Yellow
+field,display_name,search
+date,Date,true
+creator,Creator,true
+subject,Subjects,true
+location,Location,true
