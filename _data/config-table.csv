@@ -1,5 +1,9 @@
 field,display_name
 title,Title
+creator,Author
 date,Date
-description,Description
-subject,Subjects
+performance,Intended Mode of Reception
+first_performed,First Performed
+theatre,Performed at
+company,Performed by
+actress,Actresses
